@@ -1,0 +1,5 @@
+/model.pkl
+.vscode
+mlartifacts/
+mlruns_local/
+.env
